@@ -5,8 +5,8 @@ Point of sale. Simple app written in Java as a recruitment task.
 ## Task - Implement a simple point of sale. 
 
 Assume you have: 
-– one input device: bar codes scanner 
-– two output devices: LCD display and printer 
+* one input device: bar codes scanner 
+* two output devices: LCD display and printer 
 
 ### Implement: 
 #### 1. single product sale: products bar code is scanned and: 
