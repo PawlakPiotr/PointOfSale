@@ -1,6 +1,6 @@
 # Point Of Sale Appliaction
 
-Point of sale. Simple app written in Java as a recruitment job for a programming internship. 
+Point of sale. Simple app written in Java as a recruitment task. 
 
 ## Task - Implement a simple point of sale. 
 
